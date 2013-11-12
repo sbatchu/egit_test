@@ -6,6 +6,8 @@ public class HelloGit {
 		System.out.println("--------------------------------------------------------");
 		System.out.println("------     Hello Welcome to Git World          ---------");
 		System.out.println("--------------------------------------------------------");
+		
+		HelloGit gitObj = new HelloGit();
 
 	}
 
