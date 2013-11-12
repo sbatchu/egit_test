@@ -8,6 +8,7 @@ public class HelloGit {
 		System.out.println("--------------------------------------------------------");
 		
 		HelloGit gitObj = new HelloGit();
+		gitObj.toString();
 
 	}
 
